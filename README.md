@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width=300 />
+
 
 <img src="https://img.shields.io/badge/-Rupesh%20Khadka.-limegreen?style=for-the-badge" width=400>
 
